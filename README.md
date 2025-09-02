@@ -6,6 +6,7 @@ I’m Brenda, a Data Analyst with a growing passion for data analytics. I enjoy 
 - Excel, Tableau, and Pandas for data analysis and visualization  
 - AWS for cloud computing  
 - Git and GitHub for version control and collaboration  
+
 I believe technology is about solving problems, creating opportunities, and empowering people. My journey combines an economics foundation with data skills giving me a unique perspective on both business and tech.  
 
 ## Find me around the web 🌎:
